@@ -2,5 +2,6 @@ flask
 tensorflow
 joblib
 pandas
-cv2
+opencv-python
 numpy
+scikit-learn
