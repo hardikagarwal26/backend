@@ -1,0 +1,6 @@
+flask
+tensorflow
+joblib
+pandas
+cv2
+numpy
